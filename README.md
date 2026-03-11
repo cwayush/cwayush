@@ -80,7 +80,7 @@ Experience it [Keytype](https://keytype.club)
 <table>
 <tr>
   <td align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=cwayush&count_private=true&show_icons=true&rank_icon=github&hide=contribs&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwayush&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"/>
   </td>
 
   <td align="center">
@@ -90,9 +90,9 @@ Experience it [Keytype](https://keytype.club)
 
 <tr>
   <td align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwayush&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"/>
-    </td>
-
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=cwayush&count_private=true&show_icons=true&rank_icon=github&hide=contribs&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d"/>
+  </td>
+  
   <td align="center">
     <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwayush&theme=github_dark"/>
   </td>
