@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm **Ayush Katheriya** 👋  <br>💻 Currently working as a **Software Developer Intern at CloudPlay Solutions**  <br>🚀 Exploring and building projects in **Full Stack Development**  <br>🧠 Passionate about learning **AI and modern web technologies**
+Hi, I'm **Ayush Katheriya** 👋  <br>💻 Currently working as a **Software Engineer at CloudPlay Solutions**  <br>🚀 Exploring and building projects in **Full Stack Development**  <br>🧠 Passionate about learning **AI and modern web technologies**
 
 
 ## 🌐 Socials:
