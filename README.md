@@ -76,15 +76,28 @@ Experience it [Keytype](https://keytype.club)
 
 </br>
 <h2 align="center"> Engineering Performance </h2>
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cwayush&count_private=true&show_icons=true&rank_icon=github&hide=contribs&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d&hide_border=false&include_all_commits=true&count_private=false" />
-<img height="165" src="https://streak-stats.demolab.com?user=cwayush&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=F85149&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" />
-<br/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwayush&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwayush&theme=github_dark" />
+<table>
+<tr>
+  <td align="center">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=cwayush&count_private=true&show_icons=true&rank_icon=github&hide=contribs&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d"/>
+  </td>
 
-</div>
+  <td align="center">
+    <img height="150" src="https://streak-stats.demolab.com?user=cwayush&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=F85149&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9"/>
+  </td>
+</tr>
+
+<tr>
+  <td align="center">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwayush&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"/>
+    </td>
+
+  <td align="center">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwayush&theme=github_dark"/>
+  </td>
+</tr>
+</table>
 
 </br>
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
