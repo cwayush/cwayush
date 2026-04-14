@@ -80,22 +80,22 @@ Experience it [keyType](https://keytype.club)  |  [algoTrack](https://algo-track
 <table>
 <tr>
   <td align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwayush&layout=compact&count_private=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"/>
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cwayush&layout=compact&count_private=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true"/>
   </td>
 
 
   <td align="center">
-    <img height="180" src="https://streak-stats.demolab.com?user=cwayush&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=F85149&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9"/>
+    <img height="180" src="https://streak-stats.demolab.com?user=cwayush&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F85149&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9&border=0&hide_border=true"/>
   </td>
 </tr>
 
 <tr>
   <td align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=cwayush&count_private=true&show_icons=true&rank_icon=github&hide=contribs&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d"/>
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cwayush&count_private=true&show_icons=true&rank_icon=github&hide=contribs&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&hide_border=true"/>
   </td>
   
   <td align="center">
-    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwayush&theme=github_dark"/>
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwayush&title_color=58a6ff&theme=github_dark&border=0&hide_border=truee"/>
   </td>
 </tr>
 </table>
