@@ -16,7 +16,7 @@ I’m a **Software Engineer at CloudPlay Solutions** passionate about building *
 - 🌱 Always learning **new technologies and better engineering practices**
 - 💻 Love turning **ideas into real products**
 
-Experience it [keyType](https://keytype.club)  |  [algoTrack](https://algo-track-green.vercel.app/)  |  [jobPortal](https://meridian-job-portal.vercel.app/jobs)  |  [timeChallenger](https://time-challenger.onrender.com/)  |  [tic-tac-toe](https://tic-tac-toe-use-react.onrender.com/)
+Experience it [keyType](https://keytype.club)  |  [algoTrack](https://algo-track-green.vercel.app/)  |  [jobPortal](https://meridian-job-portal.vercel.app/jobs)  |  [timeChallenger](https://time-challenger.onrender.com/)  |  [deepAgent](https://github.com/cwayush/deepAgent_studio)
 
 <br/>
 <h2 align="center">Backend, AI & Full-Stack Engineering Arsenal</h2>
