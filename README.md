@@ -4,7 +4,7 @@
   <img align="right" width="30%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhzY2Z0eDd2eTRpMnFwM3hvajV6MXBpa24xZnJyMWMycXV1OHJndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zoWoYqIqjvDdPeq4n7/giphy.gif">
 </div>
 
-## 😎 I'm Ayush Katheriya
+## I'm Ayush Katheriya
 
 *Software Engineer • Full-Stack Developer*
 
@@ -17,7 +17,7 @@ I’m a **Full-Stack Software Engineer** passionate about building **scalable ba
 - 🌱 Learning, experimenting & **pushing better solutions**
 - 💻 Turning **ideas into real products**
 
-Experience it [keyType](https://keytype.club)  |  [yt researcher](https://github.com/cwayush/yt_researcher)  |  [deepAgent](https://github.com/cwayush/deepAgent_studio)  |  [algoTrack](https://algo-track-green.vercel.app/)  |  [jobPortal](https://meridian-job-portal.vercel.app/jobs)  |  [timeChallenger](https://time-challenger.onrender.com/)  |  [deepAgent](https://github.com/cwayush/deepAgent_studio)
+Experience it [keyType](https://keytype.club)  |  [yt researcher](https://github.com/cwayush/yt_researcher)  |  [deepAgent](https://github.com/cwayush/deepAgent_studio)  |  [algoTrack](https://algo-track-green.vercel.app/)  |  [jobPortal](https://meridian-job-portal.vercel.app/jobs)  |  [timeChallenger](https://time-challenger.onrender.com/)
 
 <br/>
 <h2 align="center">Backend, AI & Full-Stack Engineering Arsenal</h2>
@@ -123,7 +123,7 @@ Experience it [keyType](https://keytype.club)  |  [yt researcher](https://github
 
 <p align="center">
   <a href="https://github.com/cwayush">
-    <img src="https://github-profile-trophy-ruddy.vercel.app/?username=cwayush&theme=darkhub&margin-w=20&margin-h=20&column=4&title=Repositories,Commits,Stars,Experience">
+    <img src="https://github-profile-trophy-ruddy.vercel.app/?username=cwayush&theme=darkhub&margin-w=20&margin-h=20&column=3&title=Repositories,Commits,Stars">
   </a>
 </p>
 
