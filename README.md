@@ -17,7 +17,7 @@ I’m a **Full-Stack Software Engineer** passionate about building **scalable ba
 - 🌱 Learning, experimenting & **pushing better solutions**
 - 💻 Turning **ideas into real products**
 
-Experience it [keyType](https://keytype.club)  |  [yt researcher](https://github.com/cwayush/yt_researcher)  |  [deepAgent](https://github.com/cwayush/deepAgent_studio)  |  [algoTrack](https://algo-track-green.vercel.app/)  |  [jobPortal](https://meridian-job-portal.vercel.app/jobs)  |  [timeChallenger](https://time-challenger.onrender.com/)
+Experience it [keyType](https://keytype.live)  |  [yt researcher](https://github.com/cwayush/yt_researcher)  |  [deepAgent](https://github.com/cwayush/deepAgent_studio)  |  [algoTrack](https://algo-track-green.vercel.app/)  |  [jobPortal](https://meridian-job-portal.vercel.app/jobs)  |  [timeChallenger](https://time-challenger.onrender.com/)
 
 <br/>
 <h2 align="center">Backend, AI & Full-Stack Engineering Arsenal</h2>
